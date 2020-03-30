@@ -1,42 +1,45 @@
 ---
 # Display name
-name: Dr. Heriberto Manuel Rivera
+name: Eric Cuevas Fernandez
 
 # Username (this should match the folder name)
 authors:
-- doc
+- eric
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Profesor Investigador T.C.
+role: Estudiante de Doctorado
 
 # Organizations/Affiliations
 organizations:
 - name: Instituto de Biotecnologia UNAM
-  url: ""
-- name: Centro de Investigación en Dinámica Celular UAEM
-  url: ""
-- name: Centro Nacional de Investigacion y Desarrollo Tecnologico TecNM
+
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ciencia del mañana, hoy..
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+lineas de investigacion:
+- Inteligencia Artificial
+- Biologia de Sistemas
+- Redes de Interaccion
+- Aterosclerosis
+- Osteosarcoma
+- Demencia
 
-education:
+instituciones afiliadas:
   courses:
-  - course: Doctorado en Ciencias
-    institution: Instituto de Biotecnología UNAM
-    year: 2004
-  - course: Licenciatura en Biología
-    institution: Facultad de Ciencias UNAM
-    year: 1999
+  - course: 
+    institution: Instituto de Biotecnologia UNAM
+    year: 
+  - course: 
+    institution: Centro de Investigación en Dinámica Celular UAEM
+    year: 
+  - course: 
+    institution: Centro Nacional de Investigacion y Desarrollo Tecnologico TecNM
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:man0l0ramaster@gmail.com'
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://www.twitter.com/LTPM_mx/
@@ -67,10 +70,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigador Principal
+- PhD
 - 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Somos un consorcio de profesionistas multidiciplinarios de alto nivel, especializados en genómica y proteómica que buscamos impulsar el conocimiento y avance tecnológico que resulta determinante en la investigación biomédica, para el desarrollo de herramientas de diagnóstico molecular que tienen un importante impacto en la salud humana y animal.

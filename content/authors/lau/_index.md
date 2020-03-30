@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Laboratorio de Biologia de Sistemas y Medicina Traslacional
+name: Laura
 
 # Username (this should match the folder name)
 authors:
-- lab
+- lau
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Facultad de Nutricion
+role: Estudiante de Nutricion
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Autónoma del Estado de Morelos
+- name: Facultad de Nutricion UAEM
 
   url: ""
 
@@ -75,11 +75,3 @@ user_groups:
 ---
 
 Somos un consorcio de profesionistas multidiciplinarios de alto nivel, especializados en genómica y proteómica que buscamos impulsar el conocimiento y avance tecnológico que resulta determinante en la investigación biomédica, para el desarrollo de herramientas de diagnóstico molecular que tienen un importante impacto en la salud humana y animal.
-
-lineas de investigacion:
-- Inteligencia Artificial
-- Biologia de Sistemas
-- Redes de Interaccion
-- Aterosclerosis
-- Osteosarcoma
-- Demencia
