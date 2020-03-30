@@ -12,12 +12,12 @@ date: ""
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: ISMB-ECCB 2019
+  url: https://www.iscb.org/ismbeccb2019
 projects:
 - osteosarcoma
 publication: In *ISMB-ECCB 2019*
@@ -36,8 +36,8 @@ url_code: '#'
 url_dataset: '#'
 url_pdf: '#' 
 url_poster: '#'
-url_project: ""
-url_slides: ""
+url_project: "#"
+url_slides: "#"
 url_source: '#'
 url_video: '#'
 ---
