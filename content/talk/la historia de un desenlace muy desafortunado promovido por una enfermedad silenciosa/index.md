@@ -9,9 +9,9 @@ address:
   street: Ixtaccíhuatl 100, Vista Hermosa
 all_day: false
 authors: 
--doc
-date: "2020-02-27T11:00:00Z"
-date_end: "2020-02-27T11:40:00Z"
+-monch
+date: "2020-02-27T11:40:00Z"
+date_end: "2020-02-27T12:20:00Z"
 event: Jornadas Academicas de Bienvenida
 event_url: https://example.org
 featured: false
@@ -26,13 +26,13 @@ links:
 location: Aula de Usos Multiples
 math: true
 projects:
-- Nutrigenomica
+- Aterosclerosis
 publishDate: "2020-02"
 slides: example
 summary: An example talk using Academic's Markdown slides feature.
 tags: 
-- Nutrigenomica
-title: Alimentos y Genes - Una REevolucion
+- Aterosclerosis
+title: La historia de un desenlace muy desafortunado promovido por una enfermedad silenciosa
 url_code: ""
 url_pdf: ""
 url_slides: ""
