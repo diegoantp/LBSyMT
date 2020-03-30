@@ -2,8 +2,8 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 05  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
 title = "Laboratorio de Biologia en Sistemas y Medicina Translacional"
 
@@ -42,14 +42,15 @@ hero_media = "avatar.jpg"
 #  icon_pack = "fas"
 #  icon = "download"
   
-[cta_alt]
-  url = "#team"
-  label = "Conoce nuestro equipo"
+#[cta_alt]
+#  url = "#team"
+#  label = "Conoce nuestro equipo"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 **Lideres en innovacion biotecnologica y medicina de presicion**
+Somos un consorcio de profesionistas multidiciplinarios de alto nivel, especializados en genómica y proteómica que buscamos impulsar el conocimiento y avance tecnológico que resulta determinante en la investigación biomédica, para el desarrollo de herramientas de diagnóstico molecular que tienen un importante impacto en la salud humana y animal.
 
 
