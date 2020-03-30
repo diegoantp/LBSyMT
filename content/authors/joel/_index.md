@@ -1,29 +1,30 @@
 ---
 # Display name
-name: Diego Antunez Pacheco
+name: Joel Sánchez Méndez
 
 # Username (this should match the folder name)
 authors:
-- diego
+- joel
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Estudiante de Medicina 
+role: Medico Pasante de Servicio Social 
 
 # Organizations/Affiliations
 organizations:
 - name: Facultad de Medicina UAEM
   url: ""
-
+- name: Centro de Investigacion en Nutricion y Salud-CINyS,INSP
+  url: ""
+  
 # Short bio (displayed in user profile at end of posts)
 bio: Trabajando hacia una Salud Universal.
 
 interests:
-- Medicina Traslacional
-- Genomica de poblaciones
-- Democratización de la Salud
+- 
+-
 
 education:
   courses:
@@ -38,11 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:antpdiego@gmail.com.
-
-- icon: cv
-  icon_pack: ai
-  link: files/cvdiego.pdf
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://www.twitter.com/LTPM_mx/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LTPMmx/
+- icon: linkedin
+  icon_pack: fab
+  link: linkedin.com/in/joel-sánchez-méndez-48537215a
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -54,6 +60,4 @@ user_groups:
 - 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a MD with a business mindset, disruptive thinking and entrepreneurial soul. Constantly in the lookout for the ultimate platform to make the next big healthcare breakthrough around the globe. 

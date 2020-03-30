@@ -13,7 +13,7 @@ role: Estudiante de Maestría de ciencias bioquímicas
 
 # Organizacion/Afiliacion
 organizations:
-- name: Universidad Nacional Autónoma de México
+- name: Instituto de Biotecnologia UNAM
   url: "http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:armando.ocampo@mail.ibt.unam.mx"
 
 # bio corta (se mostrara el final de las publicaciones)

@@ -1,21 +1,20 @@
 ---
 # Display name
-name: Laboratorio de Biologia de Sistemas y Medicina Traslacional
+name: Monserrat Loredo Guillen
 
 # Username (this should match the folder name)
 authors:
-- lab
+- monch
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Facultad de Nutricion
+role: Estudiante de Maestria
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Autónoma del Estado de Morelos
-
+- name: Centro de Investigación en Dinámica Celular UAEM
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- MC
 - 
 ---
 

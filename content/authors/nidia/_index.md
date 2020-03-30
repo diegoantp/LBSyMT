@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Laboratorio de Biologia de Sistemas y Medicina Traslacional
+name: Nidia Beltran
 
 # Username (this should match the folder name)
 authors:
-- lab
+- nidia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Facultad de Nutricion
+role: Estudiante de Doctorado
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Autónoma del Estado de Morelos
+- name: Instituto de Biotecnologia UNAM
 
   url: ""
 
@@ -70,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- PhD
 - 
 ---
 

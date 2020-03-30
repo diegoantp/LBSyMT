@@ -1,35 +1,37 @@
 ---
 # Display name
-name: Diego Antunez Pacheco
+name: Marco Brecerril R
 
 # Username (this should match the folder name)
 authors:
-- diego
+- marco
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Estudiante de Medicina 
+role: Medico 
 
 # Organizations/Affiliations
 organizations:
 - name: Facultad de Medicina UAEM
   url: ""
-
+- name: CRIMEDIM - Research Center in Emergency and Disaster Medicine
+  url: "http://www.crimedim.uniupo.it"
+  
 # Short bio (displayed in user profile at end of posts)
 bio: Trabajando hacia una Salud Universal.
 
 interests:
-- Medicina Traslacional
-- Genomica de poblaciones
-- Democratización de la Salud
+- 
+-
+-
 
 education:
   courses:
   - course: Medico Cirujano
     institution: Universidad Autónoma del Estado de Morelos
-    year: Presente
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,11 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:antpdiego@gmail.com.
-
-- icon: cv
-  icon_pack: ai
-  link: files/cvdiego.pdf
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://www.twitter.com/LTPM_mx/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LTPMmx/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lbsymt-developers
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
