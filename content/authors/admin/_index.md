@@ -1,45 +1,41 @@
 ---
 # Display name
-name: Laboratorio de Biologia de Sistemas y Medicina Traslacional
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
-- lab
+- admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Facultad de Nutricion
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Autónoma del Estado de Morelos
-
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ciencia del mañana, hoy..
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-lineas de investigacion:
-- Inteligencia Artificial
-- Biologia de Sistemas
-- Redes de Interaccion
-- Aterosclerosis
-- Osteosarcoma
-- Demencia
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
-instituciones afiliadas:
+education:
   courses:
-  - course: 
-    institution: Instituto de Biotecnologia UNAM
-    year: 
-  - course: 
-    institution: Centro de Investigación en Dinámica Celular UAEM
-    year: 
-  - course: 
-    institution: Centro Nacional de Investigacion y Desarrollo Tecnologico TecNM
-    year: 
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,16 +44,16 @@ instituciones afiliadas:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://www.twitter.com/LTPM_mx/
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/LTPMmx/
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/lbsymt-developers
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,10 +66,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
-- 
+- Researchers
+- Visitors
 ---
 
-Somos un consorcio de profesionistas multidiciplinarios de alto nivel, especializados en genómica y proteómica que buscamos impulsar el conocimiento y avance tecnológico que resulta determinante en la investigación biomédica, para el desarrollo de herramientas de diagnóstico molecular que tienen un importante impacto en la salud humana y animal.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
