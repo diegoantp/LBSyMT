@@ -16,18 +16,19 @@ subtitle = ""
 
 [[feature]]
   icon = "certificate"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Instituto de Biotecnologia"
   description = "UNAM"
   
 [[feature]]
   icon = "dna"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Centro de Investigación en Dinámica Celular"
   description = "UAEM"  
   
 [[feature]]
-  hero_media = "cenidet.png"
+  icon = "robot"
+  icon_pack = "fas"
   name = "Centro Nacional de Investigacion y Desarrollo Tecnologico "
   description = "TecNM"
 

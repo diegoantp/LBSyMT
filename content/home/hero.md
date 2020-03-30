@@ -37,19 +37,17 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
- url = "#about"
-  label = "Quienes somos"
+ url = "#team"
+  label = " Conoce nuestro equipo"
   icon_pack = "fas"
   icon = ""
-  
-[cta_alt]
-  url = "#team"
-  label = "Conoce nuestro equipo"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+
+
 **Lideres en innovacion biotecnologica y medicina de presicion.** 
 
 
