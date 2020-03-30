@@ -43,6 +43,7 @@ social:
 superuser: false
 user_groups:
 - PhD
+-
 ---
 
 Self-taught, enthusiastic and passionate about learn more. Big data and Machine Learning. Pharmaceutical Industrial Laboratory Technician and Undergraduate in Sciences with terminal area in Biochemistry and Molecular Biology. Currently a master’s student in Biochemical Sciences of the National Autonomous University of Mexico UNAM, Universidad Nacional Autónoma de México.

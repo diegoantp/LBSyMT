@@ -17,7 +17,7 @@ subtitle = ""
                  "Researchers",
                  "PhD",
                  "MC",
-                 "Alumni",
+                 "Alumnos",
                  "Visitors"]
 
 [design]
