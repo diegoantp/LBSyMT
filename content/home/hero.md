@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Laboratorio de Biologia en Sistemas y Medicina Translacional"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "avatar.jpg"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -37,10 +37,10 @@ hero_media = "avatar.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
- url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+ url = "#about"
+  label = "Quienes somos"
   icon_pack = "fas"
-  icon = "download"
+  icon = ""
   
 [cta_alt]
   url = "#team"

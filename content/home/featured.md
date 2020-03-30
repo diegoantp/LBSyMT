@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Publicaciones Recientes"
-subtitle = "Nuestras líneas de investigación se enfocan al desarrollo y aplicación de herramientas de diagnóstico molecular (DAHDM) que permitan detectar con alta especificidad estadios tempranos de patologías crónico-degenetativas humanas mediante la identificación de secuencias de aminoácidos de proteínas de membrana que puedan resultar como biomarcadores."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
