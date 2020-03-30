@@ -22,7 +22,7 @@ slides: example
 summary: Proximamente en Hypatia 62
 tags:
 - Osteosarcoma
-title: Cancer de hueso: una espiral de anécdotas
+title: Cancer de Hueso Un espiral de anécdotas
 url_code: ""
 url_dataset: ""
 url_pdf: ""
