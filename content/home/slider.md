@@ -54,7 +54,7 @@ height = ""
   
 [[item]]
   title = "Tercer lugar en el XXIII verano de investigación"
-  content = "Muchas felicidades a nuestros compañeros Fer y Oscar por obtener el tercer lugar en el XXIII verano de investigación con el proyecto "Farmacogenética de biomarcadores asociados a demencia""
+  content = "Muchas felicidades a nuestros compañeros Fer y Oscar por obtener el tercer lugar en el XXIII verano de investigación con el proyecto Farmacogenética de biomarcadores asociados a demencia"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
