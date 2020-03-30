@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ciencia del mañana, hoy..
 
-lineas de investigacion:
+intrest:
 - Inteligencia Artificial
 - Biologia de Sistemas
 - Redes de Interaccion
@@ -29,7 +29,7 @@ lineas de investigacion:
 - Osteosarcoma
 - Demencia
 
-instituciones afiliadas:
+education:
   courses:
   - course: 
     institution: Instituto de Biotecnologia UNAM
