@@ -36,7 +36,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:armando.ocampo@mail.ibt.unam.mx
-#- icon: twitter
+- icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ArmanDios19
 #  link: https://twitter.com/GeorgeCushen
@@ -60,7 +60,7 @@ social:
 
 #no tocar
 user_groups:
-- Researchers
+- MC
 - 
 ---
 #descripcion personal
