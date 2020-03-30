@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ciencia del mañana, hoy..
 
-lineas de investigacion:
+intrest:
 - Inteligencia Artificial
 - Biologia de Sistemas
 - Redes de Interaccion
@@ -29,7 +29,7 @@ lineas de investigacion:
 - Osteosarcoma
 - Demencia
 
-instituciones afiliadas:
+education:
   courses:
   - course: 
     institution: Instituto de Biotecnologia UNAM
@@ -75,11 +75,3 @@ user_groups:
 ---
 
 Somos un consorcio de profesionistas multidiciplinarios de alto nivel, especializados en genómica y proteómica que buscamos impulsar el conocimiento y avance tecnológico que resulta determinante en la investigación biomédica, para el desarrollo de herramientas de diagnóstico molecular que tienen un importante impacto en la salud humana y animal.
-
-lineas de investigacion:
-- Inteligencia Artificial
-- Biologia de Sistemas
-- Redes de Interaccion
-- Aterosclerosis
-- Osteosarcoma
-- Demencia
