@@ -63,6 +63,5 @@ user_groups:
 - MC
 - 
 ---
-#descripcion personal
 Médico cirujano egresado de la Universidad Autónoma del Estado de Morelos. Titulación bajo mención honorífica con la tesis "Estudio de la relación, estructura y función de proteínas integrales en membranas plaquetarias y su influencia en el desarrollo de la ateroesclerosis en etapas tempranas: un análisis mediante dinámicas moleculares". Actualmente, forma parte del posgrado en ciencias bioquímicas por parte de la Universidad Nacional Autónoma de México. 
 Nominado al mérito médico estudiantil en 2018, por parte de alianza médica.
