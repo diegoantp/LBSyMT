@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-title = "Skills"
+title = "Instituciones Asociadas"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,33 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = ""
   icon_pack = "fab"
-  name = "R"
-  description = "100%"
+  name = "Instituto de Biotecnologia"
+  description = "UNAM"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "Centro de Investigación en Dinámica Celular"
   icon_pack = "fas"
-  name = "Analisis Estadistico"
-  description = "100%"  
+  name = "UAEM"
+  description = ""  
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Biologia de Sistemas"
-  description = "100%"
-
-[[feature]]
-  icon = "dna"
-  icon_pack = "fas"
-  name = "SNPverse"
-  description = "100%"
-  
-  [[feature]]
-  icon = "cogs"
-  icon_pack = "fas"
-  name = "Redes de Interaccion"
-  description = "100%"
+  name = "Centro Nacional de Investigacion y Desarrollo Tecnologico "
+  description = "TecNM"
 
 +++
