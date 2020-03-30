@@ -4,25 +4,24 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "Nuestro Equipo"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
+                 "PhD",
+                 "MC",
+                 "Alumnos",
+                 "Visitors"]
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
   show_interests = true
@@ -33,12 +32,12 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
   
-  # Background color.
-  # color = "navy"
+   Background color.
+   color = "navy"
   
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   Background gradient.
+   gradient_start = "DeepSkyBlue"
+   gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
