@@ -22,33 +22,42 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-#  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = "defensaericMC.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Conoce a Eric"
+  cta_url = "#team"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Jornadas académicas de bienvenida"
+  content = "Los invitamos a las jornadas académicas de bienvenida al semestre"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "jornadas1.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Jornadas académicas de bienvenida"
+  content = "Los invitamos a las jornadas académicas de bienvenida al semestre"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "jornadas2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = "Tercer lugar en el XXIII verano de investigación"
+  content = "Muchas felicidades a nuestros compañeros Fer y Oscar por obtener el tercer lugar en el XXIII verano de investigación con el proyecto "Farmacogenética de biomarcadores asociados a demencia""
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "oscaryferverano.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
