@@ -8,8 +8,7 @@ address:
   region: Morelos
   street: Ixtaccíhuatl 100, Vista Hermosa
 all_day: false
-authors: 
--doc
+authors: [doc]
 date: "2020-02-27T11:00:00Z"
 date_end: "2020-02-27T11:40:00Z"
 event: Jornadas Academicas de Bienvenida
