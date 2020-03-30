@@ -15,20 +15,17 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = ""
-  icon_pack = "fab"
+  image = "ibt.png"
   name = "Instituto de Biotecnologia"
   description = "UNAM"
   
 [[feature]]
-  icon = "Centro de Investigación en Dinámica Celular"
-  icon_pack = "fas"
+  image = "cidc.png"
   name = "UAEM"
   description = ""  
   
 [[feature]]
-  icon = "robot"
-  icon_pack = "fas"
+  image = "cendiet.png"
   name = "Centro Nacional de Investigacion y Desarrollo Tecnologico "
   description = "TecNM"
 
