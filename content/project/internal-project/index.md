@@ -1,31 +1,27 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: ""
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Proceso de aterosclerosis
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/LTPM_mx
 slides: example
-summary: An example of using the in-built project page.
+summary: La aterosclerosis, es la principal causa de Infarto Agudo del Miocardio y Evento Cerebrovascular. Actualmente, los métodos  de diagnóstico para esta enfermedad presentan poca sensibilidad y especificidad para eventos tempranos de esta entidad nosológica, teniendo como objetivo la detección de eventos trombóticos. Por esta razón, es necesaria la búsqueda de nuevos métodos diagnósticos, cuyo objetivo sea la intervención temprana de esta patología como la selección de biomarcadores séricos o genéticos.
 tags:
-- Deep Learning
-title: Internal Project
+- Aterosclerosis
+title: Aterosclerosis
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Las  enfermedades cardiovasculares (ECV), son consideradas como la principal causa de muerte a nivel mundial. Cada año mueren más personas por ECV que por otra causa. Se tiene registro de que en el 2016 murieron 17.7 millones de personas por estas enfermedades, lo cual representa el 31% de todas las muertes registradas en el mundo(1)`. Se estima que para el 2030 estas patologías serán la principal  causa de  muerte con 23.6 millones de casos(2).` En México durante el 2017, se registraron 703 mil defunciones, de las cuales las ECV constituyen la primer causa de muerte con 20.1% (3).
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Dentro de las ECV la aterosclerosis, es la principal causa de Infarto Agudo del Miocardio y Evento Cerebrovascular. Actualmente se sabe que los factores de riesgo genéticos en el desarrollo de esta patología son: la obesidad, la hipertensión, diabetes mellitus tipo 2, la resistencia a la insulina, la hipertrigliceridemia, y altos niveles de Lipoproteínas de baja densidad (LDL). La aterosclerosis es una enfermedad inflamatoria crónica, caracterizada por formación de placas de ateroma en la capa íntima de arterias de mediano y gran calibre (4). Esta patología comienza con la activación de la células endoteliales, dando como resultado la expresión de diversas moléculas  de adhesión como intra-CAM (ICAM), CAM vascular (VCAM) y selectinas que reclutan a los monocitos  circulantes en el torrente sanguíneo. Una vez adheridos a las células endoteliales los monocitos transmigran a la capa intima donde  se diferencian en macrófagos que  fagocitan a las LDL las cuales sufren un proceso de oxidación, convirtiendo a los macrófagos en células  espumosas. Este proceso favorece la formación de la placa aterosclerótica. Debido a la persistencia del proceso inflamatorio, las placas se hacen más frágiles, promoviendo su ruptura y la exposición hacia la luz vascular de moléculas pro-trombóticas, dando como resultado eventos isquémicos a órganos blancos(5).`
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Actualmente, los métodos  de diagnóstico para esta enfermedad presentan, poca sensibilidad y especificidad para eventos tempranos de esta entidad nosológica, teniendo como objetivo la detección de eventos trombóticos. Por esta razón, es necesaria la búsqueda de nuevos métodos diagnósticos, cuyo objetivo sea la intervención temprana de esta patología como la selección de biomarcadores séricos o genéticos (6).`

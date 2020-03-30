@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Monse Urbina
+name: Jose Corona
 
 # Username (this should match the folder name)
 authors:
-- monsiu
+- jose
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Estudiante de Maestría
 
 # Organizations/Affiliations
 organizations:
-- name: Facultad de Nutricion UAEM
+- name: Centro Nacional de Investigacion y Desarrollo Tecnologico TecNM
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

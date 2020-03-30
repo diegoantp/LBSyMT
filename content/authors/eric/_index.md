@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Estudiante de Maestria
+role: Estudiante de Doctorado
 
 # Organizations/Affiliations
 organizations:

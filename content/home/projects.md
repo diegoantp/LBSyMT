@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Lineas de Investigacion"
-subtitle = ""
+title = "Proyectos"
+subtitle = "Nuestras líneas de investigación se enfocan al desarrollo y aplicación de herramientas de diagnóstico molecular (DAHDM) que permitan detectar con alta especificidad estadios tempranos de patologías crónico-degenetativas humanas mediante la identificación de secuencias de aminoácidos de proteínas de membrana que puedan resultar como biomarcadores."
 
 [content]
   # Page type to display. E.g. project.
@@ -70,10 +70,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -88,9 +88,9 @@ subtitle = ""
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   Background image.
+   image = "background.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
