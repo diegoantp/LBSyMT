@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
+  user_groups = ["Investigador Principal",
                  "PhD",
                  "MC",
                  "Alumnos",
@@ -36,8 +36,8 @@ subtitle = ""
    color = "navy"
   
   #Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+   #gradient_start = "DeepSkyBlue"
+   #gradient_end = "SkyBlue"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
