@@ -18,18 +18,18 @@ subtitle = ""
   icon = "certificate"
   icon_pack = "fas"
   name = "Instituto de Biotecnologia"
-  description = "UNAM"
+  description = "Universidad Nacional Autonoma de Mexico"
   
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Centro de Investigación en Dinámica Celular"
-  description = "UAEM"  
+  description = "Universidad Autonoma del Estado de Morelos"  
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Centro Nacional de Investigacion y Desarrollo Tecnologico "
-  description = "TecNM"
+  description = "Tecnologico Nacional de Mexico"
 
 +++
