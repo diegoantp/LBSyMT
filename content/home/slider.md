@@ -15,6 +15,21 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "Espera nuestro articulo en la proxima edicion de Hypatia"
+  content = "Miembros del laboratorio publicaron un articulo de divulgacion en la edicion 62 de Hypatia, Revista de Divulgación Científico Tecnológica del Estado de Morelos."
+  align = "center"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "hypatia.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Leer"
+  cta_url = "#post"
+  cta_icon_pack = "fas"
+  cta_icon = "univeristy"
+  
 [[item]]
   title = "Nuevo Maestro en Ciencias!"
   content = "Nuestro integrante Eric Cuevas Fernandez se titula como Maestro en Ciencias "
