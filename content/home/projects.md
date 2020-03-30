@@ -30,8 +30,8 @@ subtitle = "Nuestras líneas de investigación se enfocan al desarrollo y aplica
     tag = "Machine Learning"
   
   [[content.filter_button]]
-    name = "Arterosclerosis"
-    tag = "Arterosclerosis"
+    name = "Aterosclerosis"
+    tag = "Aterosclerosis"
     
   [[content.filter_button]]
     name = "Demencia"
@@ -51,7 +51,7 @@ subtitle = "Nuestras líneas de investigación se enfocan al desarrollo y aplica
     
   [[content.filter_button]]
     name = "Canales ionicos"
-    tag = "Canales"
+    tag = "Canales ionicos"
     
   [[content.filter_button]]
     name = "Software"
@@ -70,7 +70,7 @@ subtitle = "Nuestras líneas de investigación se enfocan al desarrollo y aplica
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

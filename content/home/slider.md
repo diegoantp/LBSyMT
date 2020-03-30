@@ -26,7 +26,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Leer"
-  cta_url = "#post"
+  cta_url = "https://lbsymt.netlify.com/publication/cancer-de-huesouna-espiral-de-anecdotas/"
   cta_icon_pack = "fas"
   cta_icon = "univeristy"
   
