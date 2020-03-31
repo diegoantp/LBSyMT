@@ -31,6 +31,7 @@ education:
     year: 2014-2015
  
 # Redes sociales/academicas
+social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:loredoguillen@gmail.com'
