@@ -4,7 +4,7 @@ name: Ma. Montserrat Loredo Guillén
 
 # Crear Usuario
 authors:
-- usuario
+- monch
 
 superuser: false
 
@@ -35,6 +35,6 @@ education:
 
 #no tocar
 user_groups:
-- Researchers
-- Visitors
+- PhD
+- 
 ---
