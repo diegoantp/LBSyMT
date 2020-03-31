@@ -20,9 +20,9 @@ organizations:
 bio: 
 
 interests:
-Inteligencia Artificial
-Aterosclerosis
-CRISPR
+- Inteligencia Artificial
+- Aterosclerosis
+- CRISPR
 
 education:
   courses:
@@ -31,7 +31,9 @@ education:
     year: 2014-2015
  
 # Redes sociales/academicas
-
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:loredoguillen@gmail.com'
 
 #no tocar
 user_groups:
